@@ -601,6 +601,11 @@ vite@^2.1.0:
   optionalDependencies:
     fsevents "~2.3.1"
 
+vue-router@4.0.6:
+  version "4.0.6"
+  resolved "https://registry.npm.taobao.org/vue-router/download/vue-router-4.0.6.tgz?cache=0&sync_timestamp=1617697726574&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-router%2Fdownload%2Fvue-router-4.0.6.tgz#91750db507d26642f225b0ec6064568e5fe448d6"
+  integrity sha1-kXUNtQfSZkLyJbDsYGRWjl/kSNY=
+
 vue-tsc@^0.0.8:
   version "0.0.8"
   resolved "https://registry.npm.taobao.org/vue-tsc/download/vue-tsc-0.0.8.tgz#2b2912d0c11e0d7bfd8d4ea89883c5acd722ac39"
